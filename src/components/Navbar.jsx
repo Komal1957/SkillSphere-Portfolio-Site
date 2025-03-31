@@ -20,13 +20,13 @@ function Navbar() {
         
         {/* Logo & Name */}
         <div className="flex items-center space-x-2">
-          <img src="./fig.webp" className="h-10 w-10 md:h-12 md:w-12 rounded-full" alt="Logo" />
+          <img src="./rizwan.jpg" className="h-10 w-10 md:h-12 md:w-12 rounded-full" alt="Logo" />
           <div className="leading-tight">
             <h1 className="font-semibold text-sm md:text-lg lg:text-xl">
               Mohammad Rizwan Shaik
               <span className="text-green-500 text-lg md:text-2xl">h</span>
             </h1>
-            <p className="text-xs md:text-sm text-gray-600">Dune Analytics</p>
+            <p className="text-xs md:text-sm text-gray-600">Blockchain Data Analyst</p>
           </div>
         </div>
 

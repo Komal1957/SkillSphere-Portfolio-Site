@@ -15,7 +15,7 @@ function Home() {
           {/* Image Section (Centered & Visible) */}
           <div className="w-full flex justify-center mb-6 md:mb-0 md:w-1/2 order-1 md:order-2">
             <img
-              src="./fig.webp"
+              src="./rizwan.jpg"
               className="w-40 h-40 sm:w-48 sm:h-48 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full object-cover"
               alt="Profile"
             />
@@ -23,12 +23,12 @@ function Home() {
 
           {/* Text Section */}
           <div className="md:w-1/2 mt-6 md:mt-12 space-y-2 order-2 md:order-1 text-center md:text-left">
-            <span className="text-lg md:text-xl">Welcome In My Feed</span>
+            <span className="text-lg md:text-xl"></span>
             <div className="flex flex-col md:flex-row space-x-0 md:space-x-1 text-2xl md:text-4xl justify-center md:justify-start">
               <h1>Hello, I'm a</h1>
               <ReactTyped
                 className="text-red-700 font-bold"
-                strings={["Dune Analytics", "Blockchain Data Analyst"]}
+                strings={["Blockchain Data Analyst"]}
                 typeSpeed={40}
                 backSpeed={50}
                 loop

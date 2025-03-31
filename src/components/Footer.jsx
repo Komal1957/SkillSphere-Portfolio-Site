@@ -28,7 +28,7 @@ function Footer() {
               <div className="flex items-center space-x-2">
                 <FaEnvelope size={20} className="text-gray-600" />
                 <a href="mailto:your@email.com" className="text-sm text-gray-700 hover:text-gray-900">
-                rizwan828304@gmail.com
+                rzwn.md0@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-2">
