@@ -65,7 +65,7 @@ npm start
 ![Experience](![image](https://github.com/user-attachments/assets/11298e5b-0fee-4b46-8f99-fc0e171efa01)
 )
 
-> Screenshots should be placed inside a `/screenshots` folder in the repo.
+
 
 ---
 
