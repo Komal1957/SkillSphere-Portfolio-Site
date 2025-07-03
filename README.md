@@ -55,15 +55,12 @@ npm start
 
 ### 💻 Home 
 ![Hero Section](![image](https://github.com/user-attachments/assets/e50d01bd-04e2-46fb-aaa2-e35501401042)
-)
 
 ### 📁 Projects Section
 ![Projects](![image](https://github.com/user-attachments/assets/54f3680b-36e8-41f8-a20d-186470030aca)
-)
 
 ### 📊 Experience Section
 ![Experience](![image](https://github.com/user-attachments/assets/11298e5b-0fee-4b46-8f99-fc0e171efa01)
-)
 
 
 
